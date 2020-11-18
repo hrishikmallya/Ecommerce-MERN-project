@@ -9,8 +9,8 @@ body {
 }
 
 footer {
-  position: absolute;
-  position: sticky;
+  position: relative;
+  bottom: 0px;
   right: 0px;
   left: 0px;
 }
